@@ -1,7 +1,5 @@
 # Result
-![image](https://user-images.githubusercontent.com/26161536/142159167-28c7db63-505a-45cf-bfbc-97f9b4f866b6.png)
-
-
+![image](https://user-images.githubusercontent.com/26161536/142160163-8e043fc4-e0d5-4926-a806-17204c66b3dd.png)
 
 # What is SubQuery?
 
